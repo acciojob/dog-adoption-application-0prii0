@@ -1,2 +1,11 @@
+body{
+	background-color: lightgrey;
+	padding:0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
 
-/* Your CSS Code here. */
+select[multiple] {
+  height: 1.5em;       
+  width: 200px;    
+}
